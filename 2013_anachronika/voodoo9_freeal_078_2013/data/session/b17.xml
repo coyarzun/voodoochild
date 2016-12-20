@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<song name="b17">
+	<settings>
+		<tempo>170</tempo>
+		<loopeable>false</loopeable>
+		<levels>
+			<mainlevel>127</mainlevel>
+			<drumlevel>127</drumlevel>
+			<basslevel>127</basslevel>
+			<guitarlevel>80</guitarlevel>
+		</levels>
+		<instruments>
+			<bassinstrument>3</bassinstrument>
+			<guitarinstrument>25</guitarinstrument>
+		</instruments>
+	</settings>
+	<patterns>
+		<drumpatterns>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >----------------</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >F---F---F---F---</pad>
+				<pad name="crash" id="49"     >--------------A-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F-----F---------</pad>
+				<pad name="snaredrum" id="38" >----D-----F-----</pad>
+				<pad name="charles" id="44"   >8-8-8-8-8-8-8-8-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F-----F---------</pad>
+				<pad name="snaredrum" id="38" >----D-----F---A-</pad>
+				<pad name="charles" id="44"   >8-8-8-8-8-8-8-8-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F-----F---------</pad>
+				<pad name="snaredrum" id="38" >----D-----F---A-</pad>
+				<pad name="charles" id="44"   >8-8A8-8A8-8A8-8-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F-----F---------</pad>
+				<pad name="snaredrum" id="38" >----D-----F---A-</pad>
+				<pad name="charles" id="44"   >8-8A8-8A8-8A8-8-</pad>
+				<pad name="crash" id="57"     >----------8-----</pad>
+				<pad name="crash" id="49"     >--------------A-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---------------</pad>
+				<pad name="snaredrum" id="38" >----------------</pad>
+				<pad name="crash" id="49"     >----------------</pad>
+			</drumpattern>
+		</drumpatterns>  
+		<basspatterns>
+			<basspattern>
+				<pattern>----------------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>00----CC--------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>88----77----8---</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>X---------------</pattern>
+			</basspattern>
+		</basspatterns>
+		<guitarpatterns>
+			<guitarpattern>
+				<pattern>----------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>4-4-4-4-4-4-4-4-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>4-4-4-4-4-7-7-7-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-0-0-0-0-0-0-0-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-0-0-0-0-2-2-2-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>4---------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>X---------------</pattern>
+			</guitarpattern>
+		</guitarpatterns>
+	</patterns>
+	<tonepatterns>
+		<notes>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</notes>
+		<notes>-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17,-17</notes>
+		<notes>3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3</notes>
+	</tonepatterns>
+	<compose>
+		<part id="pre">
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase>
+				<bar kind="0">1</bar>
+			</phrase>
+		</part>
+		<part id="baseA1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA5">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA6">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA7">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA8">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA9">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA10">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA11">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA12">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA13">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 twice, go out behind the clouds</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA14">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 two times, get all the beauty that u coldnt reach before</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA15">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 again, spread for me your pin-ups legs</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA16">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 with me, throw me your bombs oh flying fortress</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+		</part>	
+		<part id="baseB2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 slight, everything is clear from now</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 returning, when you are the half you have to live two times</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 commanding, now there is no cut or break that can stop you</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 and grow, this time we are like a flying fortress</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseD1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+			</phrase>
+		</part>
+		<part id="baseD2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+			</phrase>
+		</part>
+		<part id="baseD3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+			</phrase>
+		</part>
+		<part id="baseD4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+			</phrase>
+		</part>
+		<part id="baseE1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 twice and slight behind the clouds</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 two times returning to live again</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 again commanding, spreading, cutting, breaking</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17 with me and grow, and fly and touch me</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="last">
+			<phrase>
+				<bar kind="0">6</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>2</notes>
+					<rhytm>6</rhytm>
+				</bar>
+				<bar kind="3" frame="0">b 17</bar>
+			</phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+
+		</part>
+	</compose>
+</song>

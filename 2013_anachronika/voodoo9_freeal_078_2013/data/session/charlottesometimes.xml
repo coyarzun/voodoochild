@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<song name="charlottesometimes">
+	<settings>
+		<tempo>130</tempo>
+		<loopeable>false</loopeable>
+		<levels>
+			<mainlevel>127</mainlevel>
+			<drumlevel>127</drumlevel>
+			<basslevel>127</basslevel>
+			<guitarlevel>72</guitarlevel>
+		</levels>
+		<instruments>
+			<bassinstrument>91</bassinstrument>
+			<guitarinstrument>44</guitarinstrument>
+		</instruments>
+	</settings>
+	<patterns>
+		<drumpatterns>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >----------------</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >F---F---F---F---</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----C-------C---</pad>
+				<pad name="charles" id="44"   >66F366F366F366F3</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----C-----C---F-</pad>
+				<pad name="charles" id="44"   >366F366F366F366F</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----C-------C---</pad>
+				<pad name="charles" id="44"   >66F366F366F366F3</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----C-----A-C-F-</pad>
+				<pad name="charles" id="44"   >366F366F366F366F</pad>
+				<pad name="crash" id="49"     >----------A---A-</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---------------</pad>
+				<pad name="snaredrum" id="38" >F---------------</pad>
+				<pad name="charles" id="49"   >F---------------</pad>
+			</drumpattern>
+		</drumpatterns>  
+		<basspatterns>
+			<basspattern>
+				<pattern>----------------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-CC0-CC0-CC0-CC</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-CC0-CC0-CC0-CC</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0---------------</pattern>
+			</basspattern>
+		</basspatterns>
+		<guitarpatterns>
+			<guitarpattern>
+				<pattern>----------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>--------5-7---8-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>----7-5---3-----</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>5---3-0---------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0---------------</pattern>
+			</guitarpattern>
+		</guitarpatterns>
+	</patterns>
+	<tonepatterns>
+		<notes>21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21</notes>
+		<notes>14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14</notes>
+		<notes>16,16,16,16,16,16,16,16,17,17,17,17,19,19,19,19</notes>
+		<notes>12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12</notes>
+		<notes>10,10,10,10,10,10,10,10,5,5,5,5,7,7,7,7</notes>
+		<notes>10,10,10,10,10,10,10,10,17,17,17,17,16,16,16,16</notes>
+		<notes>9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9</notes>
+		<notes>11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12</notes>
+		<notes>11,11,11,11,11,11,11,11,17,17,17,17,16,16,16,16</notes>
+		<notes>5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5</notes>
+		<notes>5,5,5,5,5,5,5,5,17,17,17,17,16,16,16,16</notes>
+		<notes>9,9,9,9,9,9,9,9,12,12,12,12,7,7,7,7</notes>
+		<notes>7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7</notes>
+		<notes>7,7,7,7,7,7,7,7,17,17,17,17,16,16,16,16</notes>
+	</tonepatterns>
+	<compose>
+		<part id="pre">
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase>
+				<bar kind="0">1</bar>
+			</phrase>
+		</part>
+		<part id="baseA1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseA4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">all the faces</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">all the voices blur</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">change to one face</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">change to one voice</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">prepare yourself for bed</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="8">the light seems bright</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="8">and glares on white walls</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseB4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">all the sounds of charlotte sometimes</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>8</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">into the night</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">with charlotte sometimes</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">night after night she lay alone in bed</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">her eyes so open to the dark</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="8">the streets all looked so strange</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseC4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">they seemed so far away</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="8">but charlotte did not cry</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>8</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseD1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">the people seemed so close</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">playing expressionless games</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseD2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">the people seemed so close</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">so many other names...</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>12</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="14">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>13</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="2">where all the other people dance</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="2">charlote sometimes</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseE3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="2">expressionless the trance</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseED1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">so many different names</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseED2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">the sounds all stay the same</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseED3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">she hopes to open shadowed eyes on a different world</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>12</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">come to me scared princess</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>13</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">charlotte sometimes</bar>
+			</phrase>
+		</part>
+		<part id="baseF1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="2">on that bleak track</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="8">see the sun is gone again</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseF2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">the tears were pouring down her face</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">she was crying and crying</bar>
+			</phrase>
+		</part>
+		<part id="baseF3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="12">for a girl who died so many years before...</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>7</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">sometimes i dream</bar>
+			</phrase>
+		</part>
+		<part id="baseFD1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">where all the other people dance</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes i dream</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseFD2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">charlotte sometimes</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes i dream</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseFD3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">the sounds all stay the same</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>6</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">sometimes im dreaming</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>11</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseFD4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>9</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">there are so many different names</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>10</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>12</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">sometimes i dream</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>13</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">sometimes i dream...</bar>
+			</phrase>
+		</part>
+		<part id="baseG1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">charlotte sometimes crying for herself</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseG2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">charlotte sometimes dreams a wall around herself</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="14">but it s always with love</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseG3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">with so much love it looks like</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">everything else</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="baseG4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">of charlotte sometimes</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="12">so far away, glass sealed and pretty</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="4">chaaarlotte sometimes</bar>
+			</phrase>
+		</part>
+		<part id="last">
+			<phrase>
+				<bar kind="0">6</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+			</phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+		</part>
+	</compose>
+</song>
