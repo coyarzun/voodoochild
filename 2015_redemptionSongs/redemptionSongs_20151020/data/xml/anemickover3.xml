@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<song name="anemicKover3">
+	<settings>
+		<tempo>117</tempo>
+		<loopeable>false</loopeable>
+		<levels>
+			<mainlevel>127</mainlevel>
+			<drumlevel>127</drumlevel>
+			<basslevel>127</basslevel>
+			<guitarlevel>52</guitarlevel>
+		</levels>
+		<instruments>
+			<bassinstrument>72</bassinstrument>
+			<guitarinstrument>29</guitarinstrument>
+		</instruments>
+	</settings>
+	<patterns>
+		<drumpatterns>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >----------------</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >F---F---F---F---</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----F-------F---</pad>
+				<pad name="charles" id="44"   >99FF99FF99FF99FF</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >88AAF8AA88FAF8FA</pad>
+				<pad name="charles" id="44"   >99FF99FF99FF99FF</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---------------</pad>
+				<pad name="snaredrum" id="38" >F---------------</pad>
+				<pad name="charles" id="49"   >F---------------</pad>
+			</drumpattern>
+		</drumpatterns>  
+		<basspatterns>
+			<basspattern>
+				<pattern>----------------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-0-0-0-0-0-0-0-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-C-0-C-0-C-0-C-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-CC0-CC0-CC0-CC</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-0-000-0-0-000-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>X---------------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-0-------------</pattern>
+			</basspattern>
+		</basspatterns>
+		<guitarpatterns>
+			<guitarpattern>
+				<pattern>----------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>7-7-7-7-7-7-7-7-</pattern>
+				<pattern>0-CC0-CC0-CC0-CC</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-C-0-C-0-C-0-C-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-CC0-CC0-CC0-CC</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-0-000-0-0-000-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0---------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0-0-------------</pattern>
+			</guitarpattern>
+		</guitarpatterns>
+	</patterns>
+	<tonepatterns>
+		<notes>7,7,7,7,9,9,9,9,9,9,9,9,9,9,9,9</notes>
+		<notes>7,7,7,7,4,4,4,4,4,4,4,4,4,4,4,4</notes>
+	</tonepatterns>
+	<compose>
+		<part id="pre">
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase>
+				<bar kind="0">1</bar>
+			</phrase>
+		</part>
+		<part id="intro1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="intro2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">bains de gros the pour grains</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">le beaute sans trop de bengue</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">l enfant qui tete est</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">un souffleur de chair</bar>
+			</phrase>
+		</part>
+		<part id="verse1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">chaude et naime pas</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">le chou-fleur de serre chaude</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">si je te donne un sou</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">me donneras tu une paire de ciseaux?</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+				<part id="verse2.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">on demande des moustiques domestiques (demi-stock)</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">pour la cure dazote sur la cote dazur.</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">inceste ou passion de famille,</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">a coups trop tires.</bar>
+			</phrase>
+		</part>
+		<part id="verse2.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">esquivons les ecchymosses</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">des esquimaux aux mots exquis.</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">avez vous deja mis la moelle de lepee</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">dans le poele de laimee?</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse3.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">parmi nos articles de quincallerie</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">paresseuse, nous recommandons</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">le robinet qui sarrete de couler</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">quand on ne lecoute pas.</bar>
+			</phrase>
+		</part>
+		<part id="verse3.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">laspirant habite javel</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">et moi javais lhabite en spirale.</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">laspirant  habite javel</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">et moi javais lhabite en spirale.</bar>
+			</phrase>
+		</part>
+		<part id="outro1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="outro2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="outro3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="outro4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">esquivons les ecchymosses</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">des esquimaux aux mots exquis.</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="8">laspirant  habite javel</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="12">et moi javais lhabite en spirale.</bar>
+			</phrase>
+		</part>
+		<part id="last">
+			<phrase>
+				<bar kind="0">4</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+		</part>
+	</compose>
+</song>

@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<song name="slowlybittingU">
+	<settings>
+		<tempo>110</tempo>
+		<loopeable>false</loopeable>
+		<levels>
+			<mainlevel>127</mainlevel>
+			<drumlevel>127</drumlevel>
+			<basslevel>127</basslevel>
+			<guitarlevel>64</guitarlevel>
+		</levels>
+		<instruments>
+			<bassinstrument>91</bassinstrument>
+			<guitarinstrument>76</guitarinstrument>
+		</instruments>
+	</settings>
+	<patterns>
+		<drumpatterns>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >----------------</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="rimshot" id="37"   >F---F---F---F---</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >FF----FF-FF-FFF-</pad>
+				<pad name="snaredrum" id="38" >----F-------F---</pad>
+				<pad name="charles" id="44"   >99FF99FF99FF99FF</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >FF----FF-FF-FFF-</pad>
+				<pad name="snaredrum" id="38" >--F-F---C--FF-9-</pad>
+				<pad name="charles" id="44"   >99FF99FF99FF99FF</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---F---F---F---</pad>
+				<pad name="snaredrum" id="38" >----F-------F---</pad>
+				<pad name="charles" id="44"   >99FF99FF99FF99FF</pad>
+			</drumpattern>
+			<drumpattern>
+				<pad name="bassdrum" id="35"  >F---------------</pad>
+				<pad name="snaredrum" id="38" >F---------------</pad>
+				<pad name="crash" id="49"     >F---------------</pad>
+			</drumpattern>
+		</drumpatterns>  
+		<basspatterns>
+			<basspattern>
+				<pattern>----------------</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>00----CC-57-BBC-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0-C-0-C-0-C-0-C-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>00----00-00-000-</pattern>
+			</basspattern>
+			<basspattern>
+				<pattern>0---------------</pattern>
+			</basspattern>
+		</basspatterns>
+		<guitarpatterns>
+			<guitarpattern>
+				<pattern>----------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0---7-5---7---C-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>F---E-F---E---C-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>E---------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>F---------------</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0---C-A---C---F-</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>--E---F---E-C---</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>------------C---</pattern>
+			</guitarpattern>
+			<guitarpattern>
+				<pattern>0---------------</pattern>
+			</guitarpattern>
+		</guitarpatterns>
+	</patterns>
+	<tonepatterns>
+		<notes>9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9</notes>
+		<notes>14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14</notes>
+		<notes>14,14,14,14,12,12,12,12,11,11,11,11,7,7,7,7</notes>
+		<notes>14,14,14,14,14,14,14,14,5,5,5,5,5,5,5,5</notes>
+		<notes>9,9,9,9,11,11,11,11,12,12,12,12,13,13,13,13</notes>
+		<notes>5,5,5,5,5,5,5,5,7,7,7,7,7,7,7,7</notes>
+	</tonepatterns>
+	<compose>
+		<part id="pre">
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase>
+				<bar kind="0">1</bar>
+			</phrase>
+		</part>
+		<part id="intro1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="intro1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">here we are</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">melted and undressed</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">dancing in blue</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">i think we were this way, everytime</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="chorus1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">slowly bitting you</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">there is no time at your skin</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="0">while the singing birds are flowering</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="8">oh yeah!</bar>
+			</phrase>
+		</part>
+		<part id="chorus1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">slowly bitting you</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">im mouth and moove and rock</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="0">you are my sweet bird and flower</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">im slowly bitting you</bar>
+			</phrase>
+		</part>
+		<part id="verse2.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">we know</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">this naked time we are spinning</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse2.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">and turn and dancing in blue</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">in this frame, everytime</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+				<bar kind="3" frame="0">no c q tienen tus ojitos q me vuelven loko</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+				<bar kind="3" frame="12">cuando me miran muy pokito, muy pokito a poko</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+				<bar kind="3" frame="0">no c q tienen tus ojitos q me vuelven loko</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+				<bar kind="3" frame="14">cuando me miran muy pokito, muy pokito a poko</bar>
+			</phrase>
+		</part>
+		<part id="bridge1.4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="filltro1.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="filltro1.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>5</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge2.4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse3.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">here we are</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">melted and naked</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="verse3.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="3" frame="0">breathing and dreaming this blue</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>7</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="3" frame="0">i like we moving this way, everytime</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="chorus2.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">slowly bitting you</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">there is no time at your skin</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="0">while the singing birds are flowering</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="8">oh yeah!</bar>
+			</phrase>
+		</part>
+		<part id="chorus2.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="3" frame="0">slowly bitting you</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">im mouth and moove and rock</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>0</notes>
+					<rhytm>1</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="3" frame="0">you are my sweet bird and flower</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">3</bar>
+				<bar kind="1">
+					<notes>2</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>0</rhytm>
+				</bar>
+				<bar kind="3" frame="0">im slowly bitting you</bar>
+			</phrase>
+		</part>
+		<part id="bridge3.1">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+				<bar kind="3" frame="0">no c q tienen tus ojitos q me vuelven loko</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+				<bar kind="3" frame="12">cuando me miran muy pokito, muy pokito a poko</bar>
+			</phrase>
+		</part>
+		<part id="bridge3.2">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="bridge3.3">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+				<bar kind="3" frame="0">no c q tienen tus ojitos q me vuelven loko</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+				<bar kind="3" frame="14">cuando me miran muy pokito, muy pokito a poko</bar>
+			</phrase>
+		</part>
+		<part id="bridge3.4">
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>3</notes>
+					<rhytm>3</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>5</rhytm>
+				</bar>
+			</phrase>
+			<phrase>
+				<bar kind="0">2</bar>
+				<bar kind="1">
+					<notes>4</notes>
+					<rhytm>2</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>0</notes>
+					<rhytm>6</rhytm>
+				</bar>
+			</phrase>
+		</part>
+		<part id="last">
+			<phrase>
+				<bar kind="0">5</bar>
+				<bar kind="1">
+					<notes>1</notes>
+					<rhytm>4</rhytm>
+				</bar>
+				<bar kind="2">
+					<notes>1</notes>
+					<rhytm>8</rhytm>
+				</bar>
+			</phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+			<phrase></phrase>
+		</part>
+	</compose>
+</song>
